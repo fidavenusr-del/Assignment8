@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to right, #cfbdc3, #b9c423);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  max-width: 500px;
+  margin: auto;
+  background: #fff;
+}
+
+button {
+  margin-left: 5px;
+  border-radius: 8px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.done-btn {
+  background-color: #198754;
+  color: white;
+}
+
+.done i {
+  color: white;
+}
